@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my own website
-- 🌱 I’m currently learning front end languages
+- 🌱 I’m currently learning frontend languages
 
 
 ### **Languages and Tools:**
