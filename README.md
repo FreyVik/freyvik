@@ -20,6 +20,12 @@ Here are some ideas to get you started:
 
 
 ### **My stats**
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freyvik&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freyvik&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<p align=center>
+  <div align=center>
+    <img align="left" width=396 src="https://github-readme-stats.vercel.app/api?username=freyvik&show_icons=true&theme=dracula" />
+  </div>
+  <div align=center>
+    <img align="rigth" width=396 src="https://github-readme-stats.vercel.app/api/top-langs/?username=freyvik&layout=compact&theme=dracula" />
+  </div>
+</p>
