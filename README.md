@@ -30,7 +30,7 @@
 
 ----------------
 
-### **My courses**
+### **My learnings**
 
 - Security development: https://www.udemy.com/certificate/UC-5e2cdb30-3676-44a7-b48b-1cf1db75792d/
 - Git and terminal commands: https://www.udemy.com/certificate/UC-cefd4844-b843-4f8f-9a2c-7f4fe0640f54/
