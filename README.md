@@ -25,8 +25,6 @@
   <img title="Markdown" height="40" src="https://github.com/FreyVik/freyvik/blob/main/icons/markdown-here-icon.svg" alt="Markdown">
   <img title="Jenkins" height="40" src="https://github.com/FreyVik/freyvik/blob/main/icons/jenkins-icon.svg" alt="Jenkins">
   <img title="Docker" height="40" src="https://github.com/FreyVik/freyvik/blob/main/icons/docker-icon.svg" alt="Docker">
-  <img title="Eclipse" height="40" src="https://github.com/FreyVik/freyvik/blob/main/icons/eclipse-11.svg" alt="Docker">
-  <img title="Visual studio" height="40" src="https://github.com/FreyVik/freyvik/blob/main/icons/visual-studio-code-1.svg" alt="Visual studio">
 </p>
 
 
