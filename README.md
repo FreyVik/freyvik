@@ -7,13 +7,26 @@
 ### **Languages and Tools:**
 
 <p align="center">
-  <img title="HTML5" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-  <img title="Javascript" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-  <img title="Terminal" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal">
-  <img title="Git" height="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg">
-  <img title="GitHub" height="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg">
-  <img title="Visual Studio Code" height="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png">
-  <img title="Java" height="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg">
+  <img title="Terminal" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal">
+  <img title="Git" height="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg" alt=Git>
+  <img title="CentOS" height="40" src="https://github.com/FreyVik/freyvik/blob/main/icons/centos-icon.svg" alt="CentOS">
+  <img title="Apache" height="40" src="https://github.com/FreyVik/freyvik/blob/main/icons/apache-icon.svg" alt="Apache">
+  <img title="Tomcat" height="40" src="https://github.com/FreyVik/freyvik/blob/main/icons/apache_tomcat-icon.svg" alt="Tomcat">
+  <img title="MariaDB" height="40" src="https://github.com/FreyVik/freyvik/blob/main/icons/mariadb-icon.svg" alt="MariaDB">
+  <img title="MongoDB" height="40" src="https://github.com/FreyVik/freyvik/blob/main/icons/mongodb-icon.svg" alt="MongoDB">
+  <img title="Java" height="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg" alt="Java">
+  <img title="Spring" height="40" src="https://github.com/FreyVik/freyvik/blob/main/icons/springio-icon.svg" alt="Spring">
+  <img title="Hibernate" height="40" src="https://github.com/FreyVik/freyvik/blob/main/icons/hibernate-icon.svg" alt="Hibernate">
+  <img title="HTML5" height="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg" alt="HTML5">  
+  <img title="CSS3" height="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg" alt="CSS3">  
+  <img title="Javascript" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript">
+  <img title="NodeJS" height="40" src="https://github.com/FreyVik/freyvik/blob/main/icons/nodejs-icon.svg" alt="NodeJS">
+  <img title="Angular" height="40" src="https://github.com/FreyVik/freyvik/blob/main/icons/angular-icon.svg" alt="Angular">
+  <img title="Markdown" height="40" src="https://github.com/FreyVik/freyvik/blob/main/icons/markdown-here-icon.svg" alt="Markdown">
+  <img title="Jenkins" height="40" src="https://github.com/FreyVik/freyvik/blob/main/icons/jenkins-icon.svg" alt="Jenkins">
+  <img title="Docker" height="40" src="https://github.com/FreyVik/freyvik/blob/main/icons/docker-icon.svg" alt="Docker">
+  <img title="Eclipse" height="40" src="https://github.com/FreyVik/freyvik/blob/main/icons/eclipse-11.svg" alt="Docker">
+  <img title="Visual studio" height="40" src="https://github.com/FreyVik/freyvik/blob/main/icons/visual-studio-code-1.svg" alt="Visual studio">
 </p>
 
 
