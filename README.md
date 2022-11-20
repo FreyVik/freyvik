@@ -46,6 +46,7 @@
 - Security development: https://www.udemy.com/certificate/UC-5e2cdb30-3676-44a7-b48b-1cf1db75792d/
 - Git and terminal commands: https://www.udemy.com/certificate/UC-cefd4844-b843-4f8f-9a2c-7f4fe0640f54/
 - JavaScript, NodeJs y Angular: https://www.udemy.com/certificate/UC-41cc3eec-d6e7-4558-ad69-5128d73bdcd9/
+- TypeScript: Zero to expert: https://www.udemy.com/certificate/UC-f758a05b-9d76-409c-8f78-6b7f1c03ed05/
 
 <!--
 **FreyVik/freyvik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
