@@ -48,6 +48,7 @@
 - JavaScript, NodeJs y Angular: https://www.udemy.com/certificate/UC-41cc3eec-d6e7-4558-ad69-5128d73bdcd9/
 - TypeScript: Zero to expert: https://www.udemy.com/certificate/UC-f758a05b-9d76-409c-8f78-6b7f1c03ed05/
 - JUnit5, Mokito with SpringBoot: https://www.udemy.com/certificate/UC-201ea688-3a06-4f2c-8f66-cf5656408b01/
+- SOLID principles and Clean Code: https://www.udemy.com/certificate/UC-b2ad82db-736a-49f7-a89b-85a5220dfe86/
 
 <!--
 **FreyVik/freyvik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
